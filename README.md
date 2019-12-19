@@ -133,7 +133,7 @@ Ideas - Todos
 
     nemo
         better navbar
-        consider sping loaded folders https://www.youtube.com/watch?v=gdUPrMjlLy8
+        consider spring loaded folders https://www.youtube.com/watch?v=gdUPrMjlLy8
 
     xed:
         option to remember past opened-documents
